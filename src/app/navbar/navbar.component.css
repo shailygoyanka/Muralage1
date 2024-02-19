@@ -1,0 +1,14 @@
+.menu-icon{
+    border: none;
+    color: #ab5c3f;
+    
+
+}
+
+hr{
+    width: 140px;
+}
+.active{
+    color: #ab5c3f !important;
+    font-weight: bold;
+}

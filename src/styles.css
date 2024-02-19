@@ -1,0 +1,29 @@
+/* You can add global styles to this file, and also import other style files */
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+*{
+    font-family: 'Quicksand', sans-serif;
+    
+}
+h1{
+    font-weight: bold;
+    margin-top: 50px;
+}
+.heading-hr{
+  
+    padding: 1px;
+    background-color: #ab5c3f;
+    opacity: 1;
+    margin-top: 0;
+    
+}
+.heading{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+}
