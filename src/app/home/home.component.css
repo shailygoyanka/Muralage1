@@ -1,8 +1,22 @@
 h1{
     color: #ab5c35 ;
-    font-size: 7rem;
+     font-size: 7rem; 
 }
 
 .container .abc{
     height: 82vh;
+}
+@media (min-width:100px)and (max-width:768px) {
+    .title-home {
+       display: none;      
+    }
+    .title-home-media{
+        font-size: 4rem;
+    }
+}
+@media (min-width:769px)and (max-width:992px) {
+    .title-home {
+     font-size:5rem ;
+    }
+
 }
